@@ -1,0 +1,11 @@
+id;name;age;salary;department;join_date
+1;John Doe;28;50000;Sales;15/01/2020
+2;Jane Smith;34;60000;Marketing;22/03/2018
+3;Sam Brown;45;80000;IT;19/07/2015
+4;Lucy Black;29;55000;HR;30/10/2019
+5;Mike White;31;65000;IT;10/05/2021
+6;Emma Green;37;70000;Sales;14/02/2017
+7;Liam Blue;42;72000;Marketing;25/08/2016
+8;Sophia Red;27;48000;HR;05/11/2021
+9;Noah Gray;36;66000;IT;17/06/2017
+10;Ava Pink;30;59000;Sales;01/12/2019
